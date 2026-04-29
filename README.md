@@ -124,4 +124,4 @@ tests/
 
 ## Demo
 
-> Record a 2-minute Loom walking through: splash screen → signup → create 3 habits → complete them → check streak → reload → logout → attempt /dashboard
+> https://go.screenpal.com/watch/cOfU35nOKMG
